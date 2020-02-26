@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+    <line>
+      <![CDATA[NewUseName : karthikkumareng+347@gmail.com]]>
+    </line>
+    <line>
+      <![CDATA[NewUserFirstName : Test]]>
+    </line>
+    <line>
+      <![CDATA[NewUserLastName :Test]]>
+    </line>
+    <line>
+      <![CDATA[NewUserPassword : Tester@123]]>
+    </line>
+    <line>
+      <![CDATA[Address1 :Test]]>
+    </line>
+    <line>
+      <![CDATA[City :Adamsvile]]>
+    </line>
+    <line>
+      <![CDATA[Postcode :02138]]>
+    </line>
+    <line>
+      <![CDATA[Phone :9876543210]]>
+    </line>
+    <line>
+      <![CDATA[Clicked Register]]>
+    </line>
+    <line>
+      <![CDATA[ReturnUser --->UserName]]>
+    </line>
+    <line>
+      <![CDATA[ReturnUserName : karthikkumareng+1@gmail.com]]>
+    </line>
+    <line>
+      <![CDATA[ReturnPassord :Tester@123]]>
+    </line>
+    <line>
+      <![CDATA[Clicked SignInAccount]]>
+    </line>
+    <line>
+      <![CDATA[ReturnUser --->UserName]]>
+    </line>
+    <line>
+      <![CDATA[selecting the Dressoption]]>
+    </line>
+    <line>
+      <![CDATA[selecting the CasualkDress]]>
+    </line>
+    <line>
+      <![CDATA[Signin as ReturnUser : karthikkumareng+1@gmail.com ]]>
+    </line>
+    <line>
+      <![CDATA[Clicked the processAddress Button]]>
+    </line>
+    <line>
+      <![CDATA[Entering the ReturnPassword : Tester@123]]>
+    </line>
+    <line>
+      <![CDATA[Clicked the processAddress Button]]>
+    </line>
+    <line>
+      <![CDATA[selecting the Terms and conditions]]>
+    </line>
+    <line>
+      <![CDATA[processCarrier]]>
+    </line>
+    <line>
+      <![CDATA[Totalprice --->$28.00]]>
+    </line>
+    <line>
+      <![CDATA[ReturnUser --->UserName]]>
+    </line>
+  </reporter-output>
+  <suite name="Suite" duration-ms="64937" started-at="2020-02-26T20:57:35Z" finished-at="2020-02-26T20:58:40Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="64937" started-at="2020-02-26T20:57:35Z" finished-at="2020-02-26T20:58:40Z">
+      <class name="com.automationpratice.login.LoginpageTest">
+        <test-method status="PASS" signature="beforeSuite()[pri:0, instance:com.automationpratice.login.LoginpageTest@224edc67]" name="beforeSuite" is-config="true" duration-ms="4399" started-at="2020-02-26T20:57:31Z" finished-at="2020-02-26T20:57:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeSuite -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:com.automationpratice.login.LoginpageTest@224edc67]" name="beforeMethod" is-config="true" duration-ms="8232" started-at="2020-02-26T20:57:36Z" finished-at="2020-02-26T20:57:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="createAccount()[pri:1, instance:com.automationpratice.login.LoginpageTest@224edc67]" name="createAccount" duration-ms="11490" started-at="2020-02-26T20:57:44Z" finished-at="2020-02-26T20:57:55Z">
+          <reporter-output>
+            <line>
+              <![CDATA[NewUseName : karthikkumareng+347@gmail.com]]>
+            </line>
+            <line>
+              <![CDATA[NewUserFirstName : Test]]>
+            </line>
+            <line>
+              <![CDATA[NewUserLastName :Test]]>
+            </line>
+            <line>
+              <![CDATA[NewUserPassword : Tester@123]]>
+            </line>
+            <line>
+              <![CDATA[Address1 :Test]]>
+            </line>
+            <line>
+              <![CDATA[City :Adamsvile]]>
+            </line>
+            <line>
+              <![CDATA[Postcode :02138]]>
+            </line>
+            <line>
+              <![CDATA[Phone :9876543210]]>
+            </line>
+            <line>
+              <![CDATA[Clicked Register]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- createAccount -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:com.automationpratice.login.LoginpageTest@224edc67]" name="afterMethod" is-config="true" duration-ms="2921" started-at="2020-02-26T20:57:55Z" finished-at="2020-02-26T20:57:58Z">
+          <reporter-output>
+            <line>
+              <![CDATA[ReturnUser --->UserName]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:com.automationpratice.login.LoginpageTest@224edc67]" name="beforeMethod" is-config="true" duration-ms="1878" started-at="2020-02-26T20:57:58Z" finished-at="2020-02-26T20:58:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="ReturnUserSign()[pri:2, instance:com.automationpratice.login.LoginpageTest@224edc67]" name="ReturnUserSign" duration-ms="6353" started-at="2020-02-26T20:58:00Z" finished-at="2020-02-26T20:58:06Z">
+          <reporter-output>
+            <line>
+              <![CDATA[ReturnUserName : karthikkumareng+1@gmail.com]]>
+            </line>
+            <line>
+              <![CDATA[ReturnPassord :Tester@123]]>
+            </line>
+            <line>
+              <![CDATA[Clicked SignInAccount]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- ReturnUserSign -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:com.automationpratice.login.LoginpageTest@224edc67]" name="afterMethod" is-config="true" duration-ms="2528" started-at="2020-02-26T20:58:06Z" finished-at="2020-02-26T20:58:09Z">
+          <reporter-output>
+            <line>
+              <![CDATA[ReturnUser --->UserName]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:com.automationpratice.login.LoginpageTest@224edc67]" name="beforeMethod" is-config="true" duration-ms="1488" started-at="2020-02-26T20:58:09Z" finished-at="2020-02-26T20:58:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="buyDress()[pri:3, instance:com.automationpratice.login.LoginpageTest@224edc67]" name="buyDress" duration-ms="27702" started-at="2020-02-26T20:58:10Z" finished-at="2020-02-26T20:58:38Z">
+          <reporter-output>
+            <line>
+              <![CDATA[selecting the Dressoption]]>
+            </line>
+            <line>
+              <![CDATA[selecting the CasualkDress]]>
+            </line>
+            <line>
+              <![CDATA[Signin as ReturnUser : karthikkumareng+1@gmail.com ]]>
+            </line>
+            <line>
+              <![CDATA[Clicked the processAddress Button]]>
+            </line>
+            <line>
+              <![CDATA[Entering the ReturnPassword : Tester@123]]>
+            </line>
+            <line>
+              <![CDATA[Clicked the processAddress Button]]>
+            </line>
+            <line>
+              <![CDATA[selecting the Terms and conditions]]>
+            </line>
+            <line>
+              <![CDATA[processCarrier]]>
+            </line>
+            <line>
+              <![CDATA[Totalprice --->$28.00]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- buyDress -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:com.automationpratice.login.LoginpageTest@224edc67]" name="afterMethod" is-config="true" duration-ms="2280" started-at="2020-02-26T20:58:38Z" finished-at="2020-02-26T20:58:40Z">
+          <reporter-output>
+            <line>
+              <![CDATA[ReturnUser --->UserName]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="afterSuite()[pri:0, instance:com.automationpratice.login.LoginpageTest@224edc67]" name="afterSuite" is-config="true" duration-ms="1" started-at="2020-02-26T20:58:40Z" finished-at="2020-02-26T20:58:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterSuite -->
+      </class> <!-- com.automationpratice.login.LoginpageTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
